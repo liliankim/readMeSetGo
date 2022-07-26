@@ -1,0 +1,23 @@
+{
+  "name": "readmesetgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liliankim/readmeSetGo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liliankim/readmeSetGo/issues"
+  },
+  "homepage": "https://github.com/liliankim/readmeSetGo#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
